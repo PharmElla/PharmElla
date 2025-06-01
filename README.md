@@ -1,57 +1,58 @@
-## Hi there 👋
+##  Hi, I'm Emmanuella 👋 
 
-<!--
-# 👋 Hi, I'm [Your Name]
+🔐 **Pharmacist | Cybersecurity Analyst | IT Analyst**
 
-🔐 **Pharmacist | Cybersecurity Student | Future Healthcare Security Specialist**
+I’m a Pharmacist with a strong foundation in healthcare systems obtained from 7years of practice, now transitioning into **Cybersecurity** out of passion for IT and desire to protect sensitive patient and customer data. I am deeply interested in **Healthcare IT security**, blending compliance knowledge with technical training. I recently earned the **Google Cybersecurity Certificate (April 2025)** and am currently completing a Cybersecurity Diploma at ABM College (Dec 2025). 
 
-I’m a licensed pharmacist with a strong foundation in healthcare systems, now transitioning into **cybersecurity** to protect sensitive patient data. My focus is on **healthcare IT security**, blending compliance knowledge with technical training. I recently earned the **Google Cybersecurity Certificate (April 2025)** and am currently completing a cybersecurity diploma at ABM College.
+I have garnered knowledge and skills in technical hardware, software and network troubleshooting, network architecture and data analytics, SIEM and IDS/IPS tools, systems configuration, active directory management, Linux administration, scripting and programming with Python and SQL, cybersecurity frameworks including NIST, ISO/IEC 27001 and security standards and regulations such as **HIPAA, PCI-DSS** and **GDPR**. I absolutely enjoy working with technology analyzing and solving complex problems.
 
 ---
 
-## 🧠 What I'm About
+## 🧠 Summary
 
 - 🎓 **Currently Studying**: Cybersecurity Diploma @ ABM College (Graduating Dec 2025)
-- ✅ **Completed**: Google Cybersecurity Certificate – April 2025  
-- 💼 **Background**: Pharmacy practice with experience in patient care systems and privacy workflows  
+- ✅ **Completed**: Google Cybersecurity Certificate – April 2025
+- ✅ **Completed**: Google IT Support Certificate – October 2024
+- 💼 **Background**: Seven years of Pharmacy practice with experience in patient care systems and privacy workflows  
 - 📍 **Based in**: Canada 🇨🇦  
-- 👨‍👩‍👦 **Real Life**: Full-time worker, cybersecurity student, and parent to a curious toddler  
-
----
-
-## 🚀 My Goals
-
-- 📊 Specialize in **healthcare cybersecurity** – GRC, risk assessments, and compliance (PHIPA/HIPAA)  
-- 🛡️ Gain hands-on experience with SOC tools and secure system configurations  
-- 💼 Break into the industry via internships or entry-level analyst/compliance roles  
-
----
-
-## 🛠️ Projects in Progress
-
-- 🏥 **Healthcare Breach Response Plan** – Simulating a PHI data breach in a clinic environment  
-- 📋 **Privacy Compliance Tracker** – Tool to support PHIPA documentation for small healthcare providers  
-- 🔐 **Password Vault CLI** – A basic Python-based encryption vault for learning purposes  
+- 👨‍👩‍👦 **Daily Life**: Full-time IT Customer Service provider, Cybersecurity student, and Mom to a curious toddler  
 
 ---
 
 ## 🧰 Skills & Tools
 
 - **Security Tools**: Wireshark, Nmap, Kali Linux, Metasploit  
-- **Compliance**: PHIPA, HIPAA basics, ISO/IEC 27001 (in progress)  
-- **Languages**: Python (beginner), Bash  
+- **Compliance**: HIPAA, PCI-DSS, GDPR, NIST, ISO/IEC 27001  
+- **Languages**: Python, SQL, Bash, HTML  
 - **Certifications**: Google Cybersecurity Certificate (2025)  
-- **Soft Skills**: Detail-oriented, privacy-focused, strong healthcare domain expertise  
+- **Soft Skills**: Effedctive communication, collaboration, detail-oriented, privacy-focused, strong healthcare domain expertise
+
+----
+
+## 🚀 Interests
+
+- 📊 Healthcare IT security, Security Analysis, Incident response, Risk assessments, Compliance
+- 💼 Internships and entry-level analyst/compliance roles  
 
 ---
+
+<!--
+## 🛠️ Projects in Progress
+
+- 🏥 **Healthcare Breach Response Plan** – Simulating a PHI data breach in a clinic environment  
+- 📋 **Privacy Compliance Tracker** – Tool to support PHIPA documentation for small healthcare providers  
+- 🔐 **Password Vault CLI** – A basic Python-based encryption vault for learning purposes  
+
+--->
 
 ## 📫 Let's Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/yourname)  
-- 📧 your.email@example.com  
-- 🌐 Portfolio (Coming Soon)
+- 💼 [LinkedIn](https://www.linkedin.com/in/emmanuella-eke-c)  
+- 📧 [Email](mailto:pharm.ella.eke@gmail.com)  
+- 🌐 [Portfolio](https://github.com/PharmElla/portfolio)
 
 ---
 
-> _“Cybersecurity is patient safety.”_
+>_"My hack is to secure the systems before hackers strike 
+— because patient and customer data protection is non-negotiable._"
 
