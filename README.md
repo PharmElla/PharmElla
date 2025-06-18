@@ -25,7 +25,7 @@ I have garnered knowledge and skills in technical hardware, software and network
 - **Compliance**: HIPAA, NIST, ISO/IEC 27001, PCI-DSS, GDPR.
 - **Languages**: Python, SQL, Bash, HTML  
 - **Certifications**: Google Cybersecurity Certificate (2025)  
-- **Soft Skills**: Effedctive communication, collaboration, detail-oriented, privacy-focused, strong healthcare domain expertise
+- **Soft Skills**: Effective communication, collaboration, detail-oriented, privacy-focused, strong healthcare domain expertise
 
 ----
 
