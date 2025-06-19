@@ -45,11 +45,16 @@ I have garnered knowledge and skills in technical hardware, software and network
 
 --->
 
+## Take a look
+
+- 🌐 [Portfolio](https://github.com/PharmElla/portfolio)
+
+---
+
 ## 📫 Let's Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/emmanuella-eke-c)  
 - 📧 [Email](mailto:pharm.ella.eke@gmail.com)  
-- 🌐 [Portfolio](https://github.com/PharmElla/portfolio)
 
 ---
 
