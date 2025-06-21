@@ -24,7 +24,7 @@ I have garnered knowledge and skills in technical hardware, software and network
 - **Security Tools**: Wireshark, Nmap, Kali Linux, Metasploit  
 - **Compliance**: HIPAA, NIST, ISO/IEC 27001, PCI-DSS, GDPR.
 - **Languages**: Python, SQL, Bash, HTML  
-- **Certifications**: Google Cybersecurity Certificate (2025)  
+- **Certifications**: Google Cybersecurity Certificate (2025), Google IT Support Certificate (2024)  
 - **Soft Skills**: Effective communication, collaboration, detail-oriented, privacy-focused, strong healthcare domain expertise
 
 ----
